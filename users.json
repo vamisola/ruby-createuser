@@ -1,0 +1,3 @@
+{"email":"vina@exmam.com","name":"Vina","permissions":null}
+{"email":"vina@exmam.com","name":"Vina","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"vina@exmam.com","name":"Vina","username":"tester","password":"tester123","permissions":{"accounts":"read","policies":"write","users":"write"}}
